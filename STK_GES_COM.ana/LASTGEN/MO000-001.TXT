@@ -1,0 +1,8 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Dépôts		NFI		nouveau fichier
+RayonMagasin		NFI		nouveau fichier
+Familles		NFI		nouveau fichier
+Produits		NFI		nouveau fichier
+Produits	IDFamilles	RRN		
+Produits	IDDépôts	RRN		
+Produits	IDRayonMagasin	RRN		
